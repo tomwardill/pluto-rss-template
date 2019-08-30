@@ -1,0 +1,1 @@
+__file__.rss        rss20.xml.erb
